@@ -3,7 +3,7 @@ package com.javaapp.demo;
 public class JavaApp
 {
 
-    private final String message = "Pipeline SUCCESS – Java project is ready";
+    private final String message = "2.Pipeline SUCCESS – Java project is ready again";
 
     public JavaApp() {}
 
